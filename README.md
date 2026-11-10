@@ -9,6 +9,7 @@ Estate Business offers property buying, property selling, residential and commer
 
 - **Founder:** Rizwan Rana
 - **Managing Director:** Farhan Rana
+- **Executive Director:** Rehan Rana
 
 ## Contact
 - **Address:** Office 4, Plot 16-C, Street 2, Badar Commercial, Phase V, DHA, Karachi, Pakistan
@@ -19,6 +20,22 @@ Estate Business offers property buying, property selling, residential and commer
 
 ## Social
 [Instagram](https://www.instagram.com/estatebusinessofficial) · [Facebook](https://www.facebook.com/share/1A9517z2y1/) · [TikTok](https://www.tiktok.com/@estatebusinessofficial1) · [YouTube](https://youtube.com/@estatebusinessofficial) · [LinkedIn](https://www.linkedin.com/company/estate-business/)
+
+## Project structure
+```
+index.html   page structure
+style.css    styling
+script.js    animations, parallax, expandable cards and social icons
+images/      logo and photos
+```
+
+## Run locally
+Download the repo and open `index.html` in a browser. No build step is needed.
+
+## Deploy
+Upload `index.html`, `style.css`, `script.js` and the `images` folder to the root of the `main` branch. Then go to **Settings → Pages**, set the source to `main`, and GitHub will host the site for free.
+
+© Estate Business. All rights reserved.[YouTube](https://youtube.com/@estatebusinessofficial) · [LinkedIn](https://www.linkedin.com/company/estate-business/)
 
 ## Project structure
 ```
